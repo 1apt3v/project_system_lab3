@@ -1,0 +1,11 @@
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathSecondExpression.Lib/bin/Debug/net8.0/SolveMathSecondExpression.Lib.deps.json
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathSecondExpression.Lib/bin/Debug/net8.0/SolveMathSecondExpression.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathSecondExpression.Lib/bin/Debug/net8.0/SolveMathSecondExpression.Lib.pdb
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathSecondExpression.Lib/obj/Debug/net8.0/SolveMathSecondExpression.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathSecondExpression.Lib/obj/Debug/net8.0/SolveMathSecondExpression.Lib.AssemblyInfoInputs.cache
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathSecondExpression.Lib/obj/Debug/net8.0/SolveMathSecondExpression.Lib.AssemblyInfo.cs
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathSecondExpression.Lib/obj/Debug/net8.0/SolveMathSecondExpression.Lib.csproj.CoreCompileInputs.cache
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathSecondExpression.Lib/obj/Debug/net8.0/SolveMathSecondExpression.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathSecondExpression.Lib/obj/Debug/net8.0/refint/SolveMathSecondExpression.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathSecondExpression.Lib/obj/Debug/net8.0/SolveMathSecondExpression.Lib.pdb
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathSecondExpression.Lib/obj/Debug/net8.0/ref/SolveMathSecondExpression.Lib.dll

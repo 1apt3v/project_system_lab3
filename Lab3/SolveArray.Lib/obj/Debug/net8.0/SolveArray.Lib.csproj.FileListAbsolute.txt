@@ -1,0 +1,11 @@
+/Users/1apt3v/Desktop/lab3/Lab3/SolveArray.Lib/bin/Debug/net8.0/SolveArray.Lib.deps.json
+/Users/1apt3v/Desktop/lab3/Lab3/SolveArray.Lib/bin/Debug/net8.0/SolveArray.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveArray.Lib/bin/Debug/net8.0/SolveArray.Lib.pdb
+/Users/1apt3v/Desktop/lab3/Lab3/SolveArray.Lib/obj/Debug/net8.0/SolveArray.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1apt3v/Desktop/lab3/Lab3/SolveArray.Lib/obj/Debug/net8.0/SolveArray.Lib.AssemblyInfoInputs.cache
+/Users/1apt3v/Desktop/lab3/Lab3/SolveArray.Lib/obj/Debug/net8.0/SolveArray.Lib.AssemblyInfo.cs
+/Users/1apt3v/Desktop/lab3/Lab3/SolveArray.Lib/obj/Debug/net8.0/SolveArray.Lib.csproj.CoreCompileInputs.cache
+/Users/1apt3v/Desktop/lab3/Lab3/SolveArray.Lib/obj/Debug/net8.0/SolveArray.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveArray.Lib/obj/Debug/net8.0/refint/SolveArray.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveArray.Lib/obj/Debug/net8.0/SolveArray.Lib.pdb
+/Users/1apt3v/Desktop/lab3/Lab3/SolveArray.Lib/obj/Debug/net8.0/ref/SolveArray.Lib.dll

@@ -1,0 +1,11 @@
+/Users/1apt3v/Desktop/lab3/Lab3/SolveCalculate.Lib/bin/Debug/net8.0/SolveCalculate.Lib.deps.json
+/Users/1apt3v/Desktop/lab3/Lab3/SolveCalculate.Lib/bin/Debug/net8.0/SolveCalculate.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveCalculate.Lib/bin/Debug/net8.0/SolveCalculate.Lib.pdb
+/Users/1apt3v/Desktop/lab3/Lab3/SolveCalculate.Lib/obj/Debug/net8.0/SolveCalculate.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1apt3v/Desktop/lab3/Lab3/SolveCalculate.Lib/obj/Debug/net8.0/SolveCalculate.Lib.AssemblyInfoInputs.cache
+/Users/1apt3v/Desktop/lab3/Lab3/SolveCalculate.Lib/obj/Debug/net8.0/SolveCalculate.Lib.AssemblyInfo.cs
+/Users/1apt3v/Desktop/lab3/Lab3/SolveCalculate.Lib/obj/Debug/net8.0/SolveCalculate.Lib.csproj.CoreCompileInputs.cache
+/Users/1apt3v/Desktop/lab3/Lab3/SolveCalculate.Lib/obj/Debug/net8.0/SolveCalculate.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveCalculate.Lib/obj/Debug/net8.0/refint/SolveCalculate.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveCalculate.Lib/obj/Debug/net8.0/SolveCalculate.Lib.pdb
+/Users/1apt3v/Desktop/lab3/Lab3/SolveCalculate.Lib/obj/Debug/net8.0/ref/SolveCalculate.Lib.dll

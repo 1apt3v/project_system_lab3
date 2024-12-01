@@ -1,0 +1,11 @@
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathFirstExpression.Lib/bin/Debug/net8.0/SolveMathFirstExpression.Lib.deps.json
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathFirstExpression.Lib/bin/Debug/net8.0/SolveMathFirstExpression.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathFirstExpression.Lib/bin/Debug/net8.0/SolveMathFirstExpression.Lib.pdb
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathFirstExpression.Lib/obj/Debug/net8.0/SolveMathFirstExpression.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathFirstExpression.Lib/obj/Debug/net8.0/SolveMathFirstExpression.Lib.AssemblyInfoInputs.cache
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathFirstExpression.Lib/obj/Debug/net8.0/SolveMathFirstExpression.Lib.AssemblyInfo.cs
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathFirstExpression.Lib/obj/Debug/net8.0/SolveMathFirstExpression.Lib.csproj.CoreCompileInputs.cache
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathFirstExpression.Lib/obj/Debug/net8.0/SolveMathFirstExpression.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathFirstExpression.Lib/obj/Debug/net8.0/refint/SolveMathFirstExpression.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathFirstExpression.Lib/obj/Debug/net8.0/SolveMathFirstExpression.Lib.pdb
+/Users/1apt3v/Desktop/lab3/Lab3/SolveMathFirstExpression.Lib/obj/Debug/net8.0/ref/SolveMathFirstExpression.Lib.dll

@@ -1,0 +1,11 @@
+/Users/1apt3v/Desktop/lab3/Lab3/SolveTabMathFunction.Lib/bin/Debug/net8.0/SolveTabMathFunction.Lib.deps.json
+/Users/1apt3v/Desktop/lab3/Lab3/SolveTabMathFunction.Lib/bin/Debug/net8.0/SolveTabMathFunction.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveTabMathFunction.Lib/bin/Debug/net8.0/SolveTabMathFunction.Lib.pdb
+/Users/1apt3v/Desktop/lab3/Lab3/SolveTabMathFunction.Lib/obj/Debug/net8.0/SolveTabMathFunction.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1apt3v/Desktop/lab3/Lab3/SolveTabMathFunction.Lib/obj/Debug/net8.0/SolveTabMathFunction.Lib.AssemblyInfoInputs.cache
+/Users/1apt3v/Desktop/lab3/Lab3/SolveTabMathFunction.Lib/obj/Debug/net8.0/SolveTabMathFunction.Lib.AssemblyInfo.cs
+/Users/1apt3v/Desktop/lab3/Lab3/SolveTabMathFunction.Lib/obj/Debug/net8.0/SolveTabMathFunction.Lib.csproj.CoreCompileInputs.cache
+/Users/1apt3v/Desktop/lab3/Lab3/SolveTabMathFunction.Lib/obj/Debug/net8.0/SolveTabMathFunction.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveTabMathFunction.Lib/obj/Debug/net8.0/refint/SolveTabMathFunction.Lib.dll
+/Users/1apt3v/Desktop/lab3/Lab3/SolveTabMathFunction.Lib/obj/Debug/net8.0/SolveTabMathFunction.Lib.pdb
+/Users/1apt3v/Desktop/lab3/Lab3/SolveTabMathFunction.Lib/obj/Debug/net8.0/ref/SolveTabMathFunction.Lib.dll
